@@ -25,7 +25,7 @@ Session 1 - Introduction to Computer Vision - [Assignment](https://github.com/am
 
 Session 2 - Neural Architecture - [Assignment](https://github.com/amitkml/EVA1-DeepLearning/tree/master/session2)
 
-Session 3 - First Neural Network - [Assignment]https://github.com/amitkml/EVA1-DeepLearning/tree/master/session3)
+Session 3 - First Neural Network - [Assignment](https://github.com/amitkml/EVA1-DeepLearning/tree/master/session3)
 
 Session 4 - Architecture Basics - [Assignment](https://github.com/amitkml/EVA1-DeepLearning/tree/master/session4)
 
@@ -37,7 +37,7 @@ Session 7 -Network Architectures and Receptive Fields [Assignment](https://githu
 
 Session 8 - [Assignment](https://github.com/amitkml/EVA1-DeepLearning/assignments/tree/master/session8)
 
-Session 9 - Data Augumentation - [Assignment]https://github.com/amitkml/EVA1-DeepLearning/tree/master/session9)
+Session 9 - Data Augumentation - [Assignment](https://github.com/amitkml/EVA1-DeepLearning/tree/master/session9)
 
 Session 10 - Interpretability - [Assignment](https://github.com/amitkml/EVA1-DeepLearning/tree/master/session10)
 
